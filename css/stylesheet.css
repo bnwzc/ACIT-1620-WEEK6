@@ -12,7 +12,7 @@ a:visited{
     color:red;
 }
 a:link{
-    color:green:
+    color:green;
 }
 a:hover{
     color:pink;
@@ -20,4 +20,7 @@ a:hover{
 li:first-child::first-letter{
     font-size: 120%;
     font-style: bold;
+}
+a[title = "BCIT homepage"]{
+    background-color: yellow;
 }
