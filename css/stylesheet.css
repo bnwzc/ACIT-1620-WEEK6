@@ -8,3 +8,12 @@ ul.list > li{
     list-style-type: none;
     border-bottom: grey solid 1px;
 }
+a:visited{
+    color:red;
+}
+a:link{
+    color:green:
+}
+a:hover{
+    color:pink;
+}
