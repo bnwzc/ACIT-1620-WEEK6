@@ -17,3 +17,7 @@ a:link{
 a:hover{
     color:pink;
 }
+li:first-child::first-letter{
+    font-size: 120%;
+    font-style: bold;
+}
